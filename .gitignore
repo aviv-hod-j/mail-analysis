@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+raw/
+debug.py
+credentials.yml
 # C extensions
 *.so
 
